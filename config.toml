@@ -13,24 +13,31 @@ favicon = "favicon.ico"
 
 [params.author]
    name = "Scarlet Skies"
-   headline = "Your favorite 18+ petite red-headed content creator"
-   #image = "images/frontal.jpg"  # path relative to static directory
+   headline = "AVN nominated naked girl"
+   image = "scarletskies.jpg"  # path relative to static directory
 
 #  { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
 #  { link = { href = "styles/", text = "All the link styles", target = "_self" } },
   links = [
-     { link = { href = "https://cash.app/$intoxicatedmermaid", text = "Cashapp", icon = "cashapp" } },
-#     { twitter  = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($15 via Cashapp)", icon = "Twitter" } },
-     { twitter = { href = "https://twitter.com/scarletskiesxxx", text = "Twitter", icon = "Twitter" } },
-#     { amazon = { href = "https://throne.com/bunnyislewd", text = "Throne Wishlist", icon = "gift" } },
-#     { link = { href = "https://onlyfans.com/bunnyislewd", text = "Onlyfans", icon = "onlyfans" } },
-#     { link = { href = "https://fansly.com/bunnyislewd", text = "Fansly", icon = "" } },
-#     { link = { href = "https://chaturbate.com/bunnyislewd", text = "Chaturbate", icon = "" } },
-#     { snapchat = "https://snapchat.com/add/bunnyislewd" },
-#     { link = { href = "https://www.manyvids.com/Feed/bunnyislewd/1003105966", text = "Manyvids", icon = "" } },
-#     { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3R9Y9JHL2K0QD", text = "Stream room renovations/recovery wishlist", icon = "gifts" } },
+     { spotify = { href = "https://cash.app/$intoxicatedmermaid", text = "Cashapp", icon = "cashapp" } },
+     { bluesky = "https://bsky.app/profile/scarletskies.bsky.social" },
+     { x = { href = "https://twitter.com/scarletskiesxxx", text = "Twitter", icon = "x" } },
+     { twitter = { href = "https://onlyfans.com/scarlet_skies", text = "VIP Onlyfans", icon = "onlyfans" } },
+     { microsoft = { href = "https://onlyfans.com/scarletskiesxxx", text = "Free Onlyfans", icon = "onlyfans" } },
+     { link = { href = "https://scarletskies.manyvids.com", text = "Manyvids", icon = "" } },
+     { link = { href = "https://www.sextpanther.com/ScarletSkies", text = "SextPanther", icon = "" } },
+     { link = { href = "https://scarletskies.cammodels.com/", text = "Cammodels", icon = "" } },
+     { link = { href = "https://trystagency.com/models/scarlet-skies", text = "Tryst Agency", icon = "" } },
+#     { discord = "" },
+
+#     { amazon = { href = "", text = "Throne Wishlist", icon = "gift" } },
+#     { link = { href = "", text = "Fansly", icon = "" } },
+#     { link = { href = "", text = "Chaturbate", icon = "" } },
+#     { snapchat = "https://snapchat.com/add/" },
+
+#     { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/", text = "", icon = "gifts" } },
     # { link = "https://link-to-some-website.com/" },
-#    { amazon = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV" },
+#    { amazon = "https://www.amazon.com/hz/wishlist/ls/" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
     # { bluesky = "" },
@@ -44,7 +51,8 @@ favicon = "favicon.ico"
     # { github = "" },
     # { gitlab = "" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+     { instagram = "https://www.instagram.com/scarletsinning" },
+     { instagram = { href = "https://www.instagram.com/notscarletskies/", text = "Personal Instagram", icon = "instagram" } },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
@@ -64,14 +72,14 @@ favicon = "favicon.ico"
     # { steam = "" },
     # { telegram = "https://t.me/username" },
     # { threads = "https://threads.com/username" },
-    # { tiktok = "" },
+     { tiktok = "https://www.tiktok.com/@unhingedscarlet" },
     # { tumblr = "https://username.tumblr.com" },
-#     { twitch = "https://twitch.tv/bunnyisgaming" },
-#     { bluesky = "https://bsky.app/profile/bunnyislewd.bsky.social" },
+#     { twitch = "" },
+
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "" },
     # { youtube = "" },
-#    { email = "mailto:bunnyislewd@outlook.com" },
+#    { email = "" },
   ]
 
 [module]
